@@ -16,7 +16,7 @@ Yes! Follow steps 1-4 above, and visit our Discord server and provide the JSON f
 ### Where can I find the Language/Country Code?
 We have linked the list of ISO 639-1 Language Codes and ISO 3166 Country Codes below:
 [ISO 639-1 Language Codes)(https://en.wikipedia.org/wiki/List_of_ISO_639-1_codes)
-[ISO 3166 Country Codes (Use Alpha-2)](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes)
+[ISO 3166 Country Codes](https://en.wikipedia.org/wiki/List_of_ISO_3166_country_codes) - Use Alpha-2 Code
 
 ### How can I find your Discord server?
 The current invite is always available on our website [https://hostinghq.xyz](https://hostinghq.xyz)
