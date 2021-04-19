@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "title": "Hosting HQ",
+        "description": "Lưu trữ xây dựng cho cộng đồng."
+    },
+    "name": {
+        "short": "Hosting HQ",
+        "long": "Hosting HQ LLC"
+    },
+    "header": {
+        "navbar": {
+            "home": "Nhà",
+            "pricing": "Định giá",
+            "status": "Trạng thái",
+            "panel": "Bảng điều khiển",
+            "discord": "Discord"
+        },
+        "button": "Bắt đầu"
+    },
+    "body": {
+        "container1": {
+            "heading": "Chúng ta là ai",
+            "subtitle": "Hosting HQ là nhà cung cấp dịch vụ lưu trữ full-stack mới được phát triển, được thành lập vào năm 2021",
+            "paragraph": "Với ý tưởng lưu trữ dựa trên cộng đồng, mọi thứ đi vào Hosting HQ đều được thiết kế xung quanh cộng đồng. Muốn có một máy chủ lưu trữ sẽ ở đó cho bạn thông qua tất cả các dự án của bạn? Chọn Hosting HQ.",
+            "a11y": {
+                "group-alt": "Hình ảnh nhóm"
+            }
+        },
+        "container2": {
+            "heading": "Những gì chúng tôi cung cấp",
+            "subtitle": "Chúng tôi cung cấp các tùy chọn lưu trữ full-stack cho các dự án thuộc mọi quy mô.",
+            "paragraph": "Hỗ trợ JavaScript, Java, Python2, Python3 cũng như HTML và CSS thông qua các mô-đun. Cho dù bạn là một nhà phát triển mới hay một nhà phát triển đã có kinh nghiệm, chúng tôi mang đến sự an tâm cho bất kể dự án của bạn.",
+            "a11y": {
+                "server-alt": "Hình ảnh máy"
+            }
+        }
+    },
+    "footer": {
+        "banner": "Lưu trữ được xây dựng cho cộng đồng.",
+        "copyright": "Bản quyền 2021 Hosting HQ",
+        "links": {
+            "terms": "Điều khoản dịch vụ",
+            "privacy": "Chính sách bảo mật",
+            "refunds": "Chính sách hoàn lại tiền",
+            "disclaimer": "Tuyên bố từ chối trách nhiệm",
+            "poe": "Bằng chứng về sự tồn tại",
+            "careers": "Việc làm"
+        },
+        "button": {
+            "language": {
+                "this": "DO NOT MODIFY THIS LINE"
+            }
+        },
+        "a11y": {
+            "fraudlabs": "FraudLabs Pro Ngăn chặn Gian lận cho Doanh nghiệp Kỹ thuật số"
+        }
+    },
+    "careers": {
+        "main": {
+            "header": {
+                "button": "Tham gia ngay"
+            },
+            "footer": {
+                "eoe": "Hosting HQ LLC là một nhà tuyển dụng có cơ hội bình đẳng và nghiêm cấm phân biệt đối xử và quấy rối dưới bất kỳ hình thức nào"
+            },
+            "container1": {
+                "heading": "Giúp",
+                "subtitle": "Nhóm hỗ trợ của chúng tôi là một phần quan trọng trong dịch vụ của chúng tôi, là xương sống của trải nghiệm khách hàng",
+                "paragraph": "Các ứng viên đang tìm kiếm một vị trí hỗ trợ với chúng tôi phải có các bằng cấp và kinh nghiệm sau",
+                "sub1": "Kiến thức cơ bản về JavaScript và / hoặc Python (bắt buộc)",
+                "sub2": "Kinh nghiệm cơ bản trong dịch vụ khách hàng hoặc vai trò liên quan đến hỗ trợ khác (ưu tiên)",
+                "sub3": "Hiểu biết cơ bản về Giao thức Secure Shell (bắt buộc)",
+                "sub4": "Truy cập vào máy tính có kết nối internet mạnh (bắt buộc)",
+                "sub5": "Từ 16 tuổi trở lên (bắt buộc)",
+                "a11y": {
+                    "group-alt": "Hình ảnh nhóm"
+                }
+            },
+            "container2": {
+                "heading": "Bán hàng",
+                "subtitle": "Đội ngũ bán hàng của chúng tôi nhiều lần là tương tác đầu tiên mà khách hàng có với chúng tôi, mở đường cho khách hàng tiềm năng",
+                "paragraph": "Các ứng viên đang tìm kiếm một vị trí bán hàng với chúng tôi phải có các bằng cấp và kinh nghiệm sau",
+                "sub1": "Kiến thức cơ bản về quản lý cơ sở hạ tầng (ưu tiên)",
+                "sub2": "Kinh nghiệm cơ bản trong bán hàng trực tuyến hoặc kinh nghiệm bán hàng tương tự (ưu tiên)",
+                "sub3": "Truy cập vào máy tính có kết nối internet mạnh (bắt buộc)",
+                "sub4": "Từ 16 tuổi trở lên (bắt buộc)",
+                "a11y": {
+                    "card-alt": "Hình thẻ"
+                }
+            }
+        },
+        "apply": {
+            "header": "VIỆC LÀM",
+            "paragraph": "Quan tâm đến sự nghiệp với Hosting HQ? Hoàn thành đơn đăng ký này và chúng tôi sẽ xem xét đơn đăng ký của bạn để có cơ hội nghề nghiệp với chúng tôi. (Vui lòng nộp hồ sơ bằng TIẾNG ANH)",
+            "fields": {
+                "name": "TÊN",
+                "name.placeholder": "Tên thật",
+                "birthday": "SINH NHẬT",
+                "birthday.placeholder": "MM/DD/YYYY (DO NOT MODIFY THIS LINE)",
+                "email": "EMAIL",
+                "email.placeholder": "you@domain.com (DO NOT MODIFY THIS LINE)",
+                "discord": "DISCORD (DO NOT MODIFY THIS LINE)",
+                "twitter": "TWITTER (DO NOT MODIFY THIS LINE)",
+                "position": "CHỨC VỤ",
+                "position.placeholder": "Hỗ trợ | Bán hàng",
+                "experience": "KINH NGHIỆM",
+                "experience.placeholder": "Mô tả bất kỳ trải nghiệm nào bạn cảm thấy nên được đưa vào (Tối đa 1000 ký tự)"
+            },
+            "button": "GỬI ĐI"
+        }
+    },
+    "error": {
+        "404": {
+            "initial": "Định vị trang được yêu cầu ..",
+            "message": "404 Không thể tìm thấy nó",
+            "second": "Đây không phải là trang bạn đang tìm kiếm...",
+            "third": "Báo cáo lỗi này cho quản trị viên hoặc quay lại..."
+        },
+        "403": {
+            "initial": "Đang truy cập trang bị hạn chế ...",
+            "initial2": "nhận tệp..",
+            "message": "403 Không cho phép",
+            "second": "Bạn nghĩ bạn đang làm gì?",
+            "third": "Bạn không nên ở đây. Rời khỏi ngay bây giờ hoặc chuẩn bị cho quá trình tự hủy..."
+        },
+        "429": {
+            "initial": "Đang truy cập trang được yêu cầu ...",
+            "initial2": "nhận tệp..",
+            "message": "429 Quá nhiều hành động",
+            "second": "DỪNG LẠI. Bạn đã vi phạm luật ...",
+            "third": "Có thể bạn không vi phạm pháp luật, nhưng bạn đang bị giới hạn"
+        },
+        "500": {
+            "initial": "Định vị dịch vụ được yêu cầu..",
+            "message": "500 Lỗi máy bên trong",
+            "second": "Máy bị đẩy ra...",
+            "third": "Máy không bị làm giả..."
+        },
+        "503": {
+            "initial": "Định vị dịch vụ được yêu cầu..",
+            "message": "503 Dịch vụ Không sẵn có",
+            "second": "Vui lòng đợi một tin nhắn quan trọng...",
+            "third": "Dịch vụ này hiện không khả dụng. Kiểm tra lại sau."
+        }
+    }
+}
