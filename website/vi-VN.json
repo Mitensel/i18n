@@ -19,19 +19,19 @@
     },
     "body": {
         "container1": {
-            "heading": "Who we are",
-            "subtitle": "Hosting HQ is a newly developed full-stack hosting provider, established in 2021",
-            "paragraph": "With the idea of community based hosting, everything that goes into Hosting HQ is designed around the community. Want a host that will be there for you through all of your projects? Choose Hosting HQ.",
+            "heading": "Chúng ta là ai",
+            "subtitle": "Hosting HQ là nhà cung cấp dịch vụ lưu trữ full-stack mới được phát triển, được thành lập vào năm 2021",
+            "paragraph": "Với ý tưởng lưu trữ dựa trên cộng đồng, mọi thứ đi vào Hosting HQ đều được thiết kế xung quanh cộng đồng. Muốn có một máy chủ lưu trữ sẽ ở đó cho bạn thông qua tất cả các dự án của bạn? Chọn Hosting HQ.",
             "a11y": {
-                "group-alt": "Group Icon"
+                "group-alt": "Hình ảnh nhóm"
             }
         },
         "container2": {
-            "heading": "What we offer",
-            "subtitle": "We offer full-stack hosting options for projects of all sizes.",
-            "paragraph": "Supporting JavaScript, Java, Python2, Python3 as well as HTML and CSS through modules. Whether you are a new developer or an experienced one, we provide peace of mind no matter your project.",
+            "heading": "Những gì chúng tôi cung cấp",
+            "subtitle": "Chúng tôi cung cấp các tùy chọn lưu trữ full-stack cho các dự án thuộc mọi quy mô.",
+            "paragraph": "Hỗ trợ JavaScript, Java, Python2, Python3 cũng như HTML và CSS thông qua các mô-đun. Cho dù bạn là một nhà phát triển mới hay một nhà phát triển đã có kinh nghiệm, chúng tôi mang đến sự an tâm cho bất kể dự án của bạn.",
             "a11y": {
-                "server-alt": "Server Icon"
+                "server-alt": "Hình ảnh máy"
             }
         }
     },
