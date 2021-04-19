@@ -22,3 +22,4 @@ We have linked the list of ISO 639-1 Language Codes and ISO 3166 Country Codes b
 
 ### How can I find your Discord server?
 The current invite is always available on our website [https://hostinghq.xyz](https://hostinghq.xyz)
+
