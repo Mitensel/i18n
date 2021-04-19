@@ -36,15 +36,15 @@
         }
     },
     "footer": {
-        "banner": "Hosting built for the community.",
-        "copyright": "Copyright 2021 Hosting HQ",
+        "banner": "Lưu trữ được xây dựng cho cộng đồng.",
+        "copyright": "Bản quyền 2021 Hosting HQ",
         "links": {
-            "terms": "Terms of Service",
-            "privacy": "Privacy Policy",
-            "refunds": "Refund Policy",
-            "disclaimer": "Disclaimer",
-            "poe": "Proof of Existence",
-            "careers": "Careers"
+            "terms": "Điều khoản dịch vụ",
+            "privacy": "Chính sách bảo mật",
+            "refunds": "Chính sách hoàn lại tiền",
+            "disclaimer": "Tuyên bố từ chối trách nhiệm",
+            "poe": "Bằng chứng về sự tồn tại",
+            "careers": "Việc làm"
         },
         "button": {
             "language": {
@@ -52,61 +52,61 @@
             }
         },
         "a11y": {
-            "fraudlabs": "FraudLabs Pro Prevents Fraud for Digital Businesses"
+            "fraudlabs": "FraudLabs Pro Ngăn chặn Gian lận cho Doanh nghiệp Kỹ thuật số"
         }
     },
     "careers": {
         "main": {
             "header": {
-                "button": "Apply Now"
+                "button": "Tham gia ngay"
             },
             "footer": {
-                "eoe": "Hosting HQ LLC is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind"
+                "eoe": "Hosting HQ LLC là một nhà tuyển dụng có cơ hội bình đẳng và nghiêm cấm phân biệt đối xử và quấy rối dưới bất kỳ hình thức nào"
             },
             "container1": {
-                "heading": "Support",
-                "subtitle": "Our support team is a vital part of our service, the backbone of the customer experience",
-                "paragraph": "Applicants seeking a support position with us should have the following qualifications and experience",
-                "sub1": "Basic knowledge of JavaScript and/or Python (required)",
-                "sub2": "Basic experience in a customer service or other support related role (preferred)",
-                "sub3": "Basic understanding of Secure Shell Protocol (required)",
-                "sub4": "Access to a computer with a strong internet connection (required)",
-                "sub5": "Be at least 16 years of age or older (required)",
+                "heading": "Giúp",
+                "subtitle": "Nhóm hỗ trợ của chúng tôi là một phần quan trọng trong dịch vụ của chúng tôi, là xương sống của trải nghiệm khách hàng",
+                "paragraph": "Các ứng viên đang tìm kiếm một vị trí hỗ trợ với chúng tôi phải có các bằng cấp và kinh nghiệm sau",
+                "sub1": "Kiến thức cơ bản về JavaScript và / hoặc Python (bắt buộc)",
+                "sub2": "Kinh nghiệm cơ bản trong dịch vụ khách hàng hoặc vai trò liên quan đến hỗ trợ khác (ưu tiên)",
+                "sub3": "Hiểu biết cơ bản về Giao thức Secure Shell (bắt buộc)",
+                "sub4": "Truy cập vào máy tính có kết nối internet mạnh (bắt buộc)",
+                "sub5": "Từ 16 tuổi trở lên (bắt buộc)",
                 "a11y": {
-                    "group-alt": "Group Icon"
+                    "group-alt": "Hình ảnh nhóm"
                 }
             },
             "container2": {
-                "heading": "Sales",
-                "subtitle": "Our sales team is many times the first interaction the customer has with us, paving the way for potential customers",
-                "paragraph": "Applicants seeking a sales position with us should have the following qualifications and experience",
-                "sub1": "Basic knowledge of infrastructure management (preferred)",
-                "sub2": "Basic experience in an online sales or similar sales experience (preferred)",
-                "sub3": "Access to a computer with a strong internet connection (required)",
-                "sub4": "Be at least 16 years of age or older (required)",
+                "heading": "Bán hàng",
+                "subtitle": "Đội ngũ bán hàng của chúng tôi nhiều lần là tương tác đầu tiên mà khách hàng có với chúng tôi, mở đường cho khách hàng tiềm năng",
+                "paragraph": "Các ứng viên đang tìm kiếm một vị trí bán hàng với chúng tôi phải có các bằng cấp và kinh nghiệm sau",
+                "sub1": "Kiến thức cơ bản về quản lý cơ sở hạ tầng (ưu tiên)",
+                "sub2": "Kinh nghiệm cơ bản trong bán hàng trực tuyến hoặc kinh nghiệm bán hàng tương tự (ưu tiên)",
+                "sub3": "Truy cập vào máy tính có kết nối internet mạnh (bắt buộc)",
+                "sub4": "Từ 16 tuổi trở lên (bắt buộc)",
                 "a11y": {
-                    "card-alt": "Credit Card Icon"
+                    "card-alt": "Hình thẻ"
                 }
             }
         },
         "apply": {
-            "header": "CAREERS",
-            "paragraph": "Interested in a Career with Hosting HQ? Complete this application and we will review your application for a career opportunity with us. (Please submit application in ENGLISH)",
+            "header": "VIỆC LÀM",
+            "paragraph": "Quan tâm đến sự nghiệp với Hosting HQ? Hoàn thành đơn đăng ký này và chúng tôi sẽ xem xét đơn đăng ký của bạn để có cơ hội nghề nghiệp với chúng tôi. (Vui lòng nộp hồ sơ bằng TIẾNG ANH)",
             "fields": {
-                "name": "NAME",
-                "name.placeholder": "Your Legal Name",
-                "birthday": "BIRTHDAY",
+                "name": "TÊN",
+                "name.placeholder": "Tên thật",
+                "birthday": "SINH NHẬT",
                 "birthday.placeholder": "MM/DD/YYYY (DO NOT MODIFY THIS LINE)",
                 "email": "EMAIL",
                 "email.placeholder": "you@domain.com (DO NOT MODIFY THIS LINE)",
                 "discord": "DISCORD (DO NOT MODIFY THIS LINE)",
                 "twitter": "TWITTER (DO NOT MODIFY THIS LINE)",
-                "position": "POSITION",
-                "position.placeholder": "Support | Sales",
-                "experience": "EXPERIENCE",
-                "experience.placeholder": "Describe any experience you feel should be included (Max 1000 Characters)"
+                "position": "CHỨC VỤ",
+                "position.placeholder": "Hỗ trợ | Bán hàng",
+                "experience": "KINH NGHIỆM",
+                "experience.placeholder": "Mô tả bất kỳ trải nghiệm nào bạn cảm thấy nên được đưa vào (Tối đa 1000 ký tự)"
             },
-            "button": "SUBMIT"
+            "button": "GỬI ĐI"
         }
     },
     "error": {
