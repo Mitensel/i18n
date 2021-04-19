@@ -111,36 +111,36 @@
     },
     "error": {
         "404": {
-            "initial": "Locating requested page..",
-            "message": "404 Not Found",
-            "second": "This is not the page you are looking for...",
-            "third": "Please either report this error to an administrator or return back and forget you were here..."
+            "initial": "Định vị trang được yêu cầu ..",
+            "message": "404 Không thể tìm thấy nó",
+            "second": "Đây không phải là trang bạn đang tìm kiếm...",
+            "third": "Báo cáo lỗi này cho quản trị viên hoặc quay lại..."
         },
         "403": {
-            "initial": "Accessing restricted page...",
-            "initial2": "getting files..",
-            "message": "403 Forbidden",
-            "second": "What do you think you are doing?",
-            "third": "You shouldn't be here. Leave now or prepare for self-destruct..."
+            "initial": "Đang truy cập trang bị hạn chế ...",
+            "initial2": "nhận tệp..",
+            "message": "403 Không cho phép",
+            "second": "Bạn nghĩ bạn đang làm gì?",
+            "third": "Bạn không nên ở đây. Rời khỏi ngay bây giờ hoặc chuẩn bị cho quá trình tự hủy..."
         },
         "429": {
-            "initial": "Accessing requested page...",
-            "initial2": "getting files..",
-            "message": "429 Too Many Requests",
-            "second": "STOP. You have violated the law...",
-            "third": "Maybe you haven't violated the law, but you are being ratelimited"
+            "initial": "Đang truy cập trang được yêu cầu ...",
+            "initial2": "nhận tệp..",
+            "message": "429 Quá nhiều hành động",
+            "second": "DỪNG LẠI. Bạn đã vi phạm luật ...",
+            "third": "Có thể bạn không vi phạm pháp luật, nhưng bạn đang bị giới hạn"
         },
         "500": {
-            "initial": "Locating requested service..",
-            "message": "500 Internal Server Error",
-            "second": "Server was ejected...",
-            "third": "Server was not an imposter..."
+            "initial": "Định vị dịch vụ được yêu cầu..",
+            "message": "500 Lỗi máy bên trong",
+            "second": "Máy bị đẩy ra...",
+            "third": "Máy không bị làm giả..."
         },
         "503": {
-            "initial": "Locating requested service..",
-            "message": "503 Service Unavailable",
-            "second": "Please wait for an important message from our alien overlords...",
-            "third": "Whoops, looks like the service is currently unavailable. Check back later."
+            "initial": "Định vị dịch vụ được yêu cầu..",
+            "message": "503 Dịch vụ Không sẵn có",
+            "second": "Vui lòng đợi một tin nhắn quan trọng...",
+            "third": "Dịch vụ này hiện không khả dụng. Kiểm tra lại sau."
         }
     }
 }
