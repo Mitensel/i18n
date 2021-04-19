@@ -1,0 +1,146 @@
+{
+    "meta": {
+        "title": "Hosting HQ",
+        "description": "Hosting built for the community."
+    },
+    "name": {
+        "short": "Hosting HQ",
+        "long": "Hosting HQ LLC"
+    },
+    "header": {
+        "navbar": {
+            "home": "Home",
+            "pricing": "Pricing",
+            "status": "Status",
+            "panel": "Panel",
+            "discord": "Discord"
+        },
+        "button": "Get Started"
+    },
+    "body": {
+        "container1": {
+            "heading": "Who we are",
+            "subtitle": "Hosting HQ is a newly developed full-stack hosting provider, established in 2021",
+            "paragraph": "With the idea of community based hosting, everything that goes into Hosting HQ is designed around the community. Want a host that will be there for you through all of your projects? Choose Hosting HQ.",
+            "a11y": {
+                "group-alt": "Group Icon"
+            }
+        },
+        "container2": {
+            "heading": "What we offer",
+            "subtitle": "We offer full-stack hosting options for projects of all sizes.",
+            "paragraph": "Supporting JavaScript, Java, Python2, Python3 as well as HTML and CSS through modules. Whether you are a new developer or an experienced one, we provide peace of mind no matter your project.",
+            "a11y": {
+                "server-alt": "Server Icon"
+            }
+        }
+    },
+    "footer": {
+        "banner": "Hosting built for the community.",
+        "copyright": "Copyright 2021 Hosting HQ",
+        "links": {
+            "terms": "Terms of Service",
+            "privacy": "Privacy Policy",
+            "refunds": "Refund Policy",
+            "disclaimer": "Disclaimer",
+            "poe": "Proof of Existence",
+            "careers": "Careers"
+        },
+        "button": {
+            "language": {
+                "this": "DO NOT MODIFY THIS LINE"
+            }
+        },
+        "a11y": {
+            "fraudlabs": "FraudLabs Pro Prevents Fraud for Digital Businesses"
+        }
+    },
+    "careers": {
+        "main": {
+            "header": {
+                "button": "Apply Now"
+            },
+            "footer": {
+                "eoe": "Hosting HQ LLC is an Equal Opportunity Employer and Prohibits Discrimination and Harassment of Any Kind"
+            },
+            "container1": {
+                "heading": "Support",
+                "subtitle": "Our support team is a vital part of our service, the backbone of the customer experience",
+                "paragraph": "Applicants seeking a support position with us should have the following qualifications and experience",
+                "sub1": "Basic knowledge of JavaScript and/or Python (required)",
+                "sub2": "Basic experience in a customer service or other support related role (preferred)",
+                "sub3": "Basic understanding of Secure Shell Protocol (required)",
+                "sub4": "Access to a computer with a strong internet connection (required)",
+                "sub5": "Be at least 16 years of age or older (required)",
+                "a11y": {
+                    "group-alt": "Group Icon"
+                }
+            },
+            "container2": {
+                "heading": "Sales",
+                "subtitle": "Our sales team is many times the first interaction the customer has with us, paving the way for potential customers",
+                "paragraph": "Applicants seeking a sales position with us should have the following qualifications and experience",
+                "sub1": "Basic knowledge of infrastructure management (preferred)",
+                "sub2": "Basic experience in an online sales or similar sales experience (preferred)",
+                "sub3": "Access to a computer with a strong internet connection (required)",
+                "sub4": "Be at least 16 years of age or older (required)",
+                "a11y": {
+                    "card-alt": "Credit Card Icon"
+                }
+            }
+        },
+        "apply": {
+            "header": "CAREERS",
+            "paragraph": "Interested in a Career with Hosting HQ? Complete this application and we will review your application for a career opportunity with us. (Please submit application in ENGLISH)",
+            "fields": {
+                "name": "NAME",
+                "name.placeholder": "Your Legal Name",
+                "birthday": "BIRTHDAY",
+                "birthday.placeholder": "MM/DD/YYYY (DO NOT MODIFY THIS LINE)",
+                "email": "EMAIL",
+                "email.placeholder": "you@domain.com (DO NOT MODIFY THIS LINE)",
+                "discord": "DISCORD (DO NOT MODIFY THIS LINE)",
+                "twitter": "TWITTER (DO NOT MODIFY THIS LINE)",
+                "position": "POSITION",
+                "position.placeholder": "Support | Sales",
+                "experience": "EXPERIENCE",
+                "experience.placeholder": "Describe any experience you feel should be included (Max 1000 Characters)"
+            },
+            "button": "SUBMIT"
+        }
+    },
+    "error": {
+        "404": {
+            "initial": "Locating requested page..",
+            "message": "404 Not Found",
+            "second": "This is not the page you are looking for...",
+            "third": "Please either report this error to an administrator or return back and forget you were here..."
+        },
+        "403": {
+            "initial": "Accessing restricted page...",
+            "initial2": "getting files..",
+            "message": "403 Forbidden",
+            "second": "What do you think you are doing?",
+            "third": "You shouldn't be here. Leave now or prepare for self-destruct..."
+        },
+        "429": {
+            "initial": "Accessing requested page...",
+            "initial2": "getting files..",
+            "message": "429 Too Many Requests",
+            "second": "STOP. You have violated the law...",
+            "third": "Maybe you haven't violated the law, but you are being ratelimited"
+        },
+        "500": {
+            "initial": "Locating requested service..",
+            "message": "500 Internal Server Error",
+            "second": "Server was ejected...",
+            "third": "Server was not an imposter..."
+        },
+        "503": {
+            "initial": "Locating requested service..",
+            "message": "503 Service Unavailable",
+            "second": "Please wait for an important message from our alien overlords...",
+            "third": "Whoops, looks like the service is currently unavailable. Check back later."
+        }
+    }
+}
