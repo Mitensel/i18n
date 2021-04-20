@@ -48,7 +48,8 @@
         },
         "button": {
             "language": {
-                "this": "English (CA) (DO NOT MODIFY THIS LINE)"
+                "name": "Language",
+                "this": "English (US) (DO NOT MODIFY THIS LINE)"
             }
         },
         "a11y": {
@@ -110,6 +111,13 @@
         }
     },
     "error": {
+        "401": {
+            "initial": "Accessing restricted page...",
+            "intiial2": "getting files..",
+            "message": "401 Unathorized",
+            "second": "Who are you?",
+            "third": "I don't recognize you or couldn't verify your credentials..."
+        },
         "404": {
             "initial": "Locating requested page..",
             "message": "404 Not Found",
