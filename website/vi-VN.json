@@ -48,6 +48,7 @@
         },
         "button": {
             "language": {
+                "name": "Ngôn ngữ",
                 "this": "Tiếng Việt (DO NOT MODIFY THIS LINE)"
             }
         },
@@ -110,6 +111,13 @@
         }
     },
     "error": {
+        "401": {
+            "initial": "Truy cập trang bị hạn chế...",
+            "intiial2": "nhận các tập tin..",
+            "message": "401 Không được phép",
+            "second": "Bạn là ai?",
+            "third": "Tôi không nhận ra bạn hoặc không thể xác minh bạn..."
+        },
         "404": {
             "initial": "Định vị trang được yêu cầu ..",
             "message": "404 Không thể tìm thấy nó",
